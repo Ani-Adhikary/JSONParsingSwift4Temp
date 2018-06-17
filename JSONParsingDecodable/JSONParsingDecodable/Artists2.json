@@ -1,0 +1,43 @@
+ [
+  {
+  "name" : "Pablo Picasso",
+  "bio" : "Pablo Ruiz y Picasso (25 October 1881 – 8 April 1973), also known as Pablo Picasso, was a Spanish painter, sculptor, printmaker, ceramicist, stage designer, poet and playwright who spent most of his adult life in France.",
+  "image" : "0"
+  
+  },
+  {
+  "name" : "Vincent van Gogh",
+  "bio" : "Vincent Willem van Gogh (30 March 1853 – 29 July 1890) was a Dutch post-Impressionist painter whose work had far-reaching influence on 20th-century art.",
+  "image" : "1"
+  
+  },
+  {
+  "name" : "Frida Kahlo",
+  "bio" : "Frida Kahlo de Rivera (July 6, 1907 – July 13, 1954), born Magdalena Carmen Frieda Kahlo y Calderón, was a Mexican painter known for her self-portraits.",
+  "image" : "2"
+  
+  },
+  {
+  "name" : "Georgia O'Keeffe",
+  "bio" : "Georgia Totto O'Keeffe (November 15, 1887 – March 6, 1986) was an American artist. She is best known for her paintings of enlarged flowers, New York skyscrapers, and New Mexico landscapes. O'Keeffe has been recognized as the 'Mother of American modernism'.",
+  "image" : "3"
+  
+  },
+  {
+  "name" : "Andy Warhol",
+  "bio" : "Andy Warhol (August 6, 1928 – February 22, 1987), born Andrew Warhola, was an American artist who was a leading figure in the visual art movement known as pop art.",
+  "image" : "4"
+  
+  },
+  {
+  "name" : "Leonardo da Vinci",
+  "bio" : "Leonardo di ser Piero da Vinci, more commonly Leonardo da Vinci (15 April 1452 – 2 May 1519), was an Italian polymath whose areas of interest included invention, painting, sculpting, architecture, science, music, mathematics, engineering, literature, anatomy, geology, astronomy, botany, writing, history, and cartography. He has been variously called the father of paleontology, ichnology, and architecture, and is widely considered one of the greatest painters of all time.",
+  "image" : "5"
+  
+  },
+  {
+  "name" : "Rembrandt",
+  "bio" : "Rembrandt Harmenszoon van Rijn (15 July 1606 – 4 October 1669) was a Dutch painter and etcher. He is generally considered one of the greatest painters and printmakers in European art and the most important in Dutch history.",
+  "image" : "6"
+  }
+  ]
