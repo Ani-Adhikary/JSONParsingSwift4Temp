@@ -1,0 +1,342 @@
+{
+    "Status": "Success",
+    "Message": "Sync data fetched Successfully",
+    "SyncData": {
+        "Properties": [
+            {
+                "PropertyId": 1,
+                "Address": "Alexander City,Anchorage",
+                "Status": "A",
+                "Title": "Anchorage",
+                "InfoPointCount": 0,
+                "Description": "Adorable, completely remodeled home in the center of Alexander City. This large 4 bedroom 2 bathroom home is convenient to EVERYTHING! There's plenty of room for everyone here. Large eat-in kitchen with tile flooring, separate laundry room with washer and dryer included, open dining and family room, and a great front porch for rocking chairs! New windows, wiring, bathrooms, flooring, and stainless steel appliances. This home is truly move-in ready!",
+                "Price": 210000.0,
+                "Beds": "4",
+                "Bathrooms": "2",
+                "Parkings": 1,
+                "Kitchens": 0,
+                "PropertyType": "Single Family",
+                "Size": 950.0,
+                "FloorNumber": 0,
+                "TotalFloor": 0,
+                "WhatIsNear": null,
+                "BuiltYear": "1990",
+                "IsVacant": "1",
+                "LotSize": "",
+                "MainImage": "p21.jpg",
+                "Images": "p21.jpg|p21.jpg|p22.jpg|p23.jpg",
+                "Created_On": "2019-05-23T08:37:04.353",
+                "Modified_On": null,
+                "InfoPoints": [],
+                "Beacons": []
+            },
+            {
+                "PropertyId": 2,
+                "Address": "Alameda,10434 Amara Vista Ct NE",
+                "Status": "A",
+                "Title": "10434 Amara Vista Ct NE",
+                "InfoPointCount": 4,
+                "Description": "This amazing custom masterpiece is nestled in the heart of the North Valley!  This contemporary home is light , bright and open! With custom paint, tile, counter tops, accents, textured walls, sleek designs, 360 degree view deck, 3 car garage, covered patio with 2 Commercial Grade retractable doors to open up the living room to allow for additional living space!  ",
+                "Price": 615000.0,
+                "Beds": "3",
+                "Bathrooms": "4",
+                "Parkings": 1,
+                "Kitchens": 0,
+                "PropertyType": "Single Family",
+                "Size": 2444.0,
+                "FloorNumber": 1,
+                "TotalFloor": 0,
+                "WhatIsNear": null,
+                "BuiltYear": "2015",
+                "IsVacant": "0",
+                "LotSize": "",
+                "MainImage": "i1.jpg",
+                "Images": "i1.jpg|img1.jpg|img2.jpg|img3.jpg|img4.jpg",
+                "Created_On": "2019-05-23T08:37:04.353",
+                "Modified_On": "2019-05-27T07:32:25.51",
+                "InfoPoints": [],
+                "Beacons": []
+            },
+            {
+                "PropertyId": 3,
+                "Address": "Alamosa,2906 Sarah Ln",
+                "Status": "A",
+                "Title": "2906 Sarah Ln",
+                "InfoPointCount": 0,
+                "Description": "This Mediterranean inspired stucco home is complete with concrete tile roof and is located within walking distance of hiking trails along the Rio Grande in the desirable River Trece neighborhood of Alamosa. This custom-built home offers spacious vaulted ceilings in the Family Room, main level Master Bedroom and Breakfast Nook. Your family will enjoy the open concept floor plan with natural sunlight throughout the home and spending summer evenings on the expansive deck and fenced in back yard.  The Master Suite includes a large bedroom with French doors that conveniently open to the deck, a sizable walk-in closet, and a newly updated over-sized five-piece master bathroom. The Family Room also opens to the deck and is directly connected to the kitchen. This newly remodeled Kitchen includes new appliances and refinished hardwood floors. The main level has a laundry/mud room which leads to an over-sized (500 sq. ft) two car garage and an additional half bath. Upstairs there are three bedrooms, one full bathroom, a catwalk which overlooks the family room, as well as an enclosed storage room. The landscaping consists of Aspen trees and expansive lawn with a sprinkling system. This beautiful, well-kept home with only one owner, is perfect for a family who desires to live in a great and quiet neighborhood.",
+                "Price": 347999.0,
+                "Beds": "4",
+                "Bathrooms": "3",
+                "Parkings": 2,
+                "Kitchens": 0,
+                "PropertyType": "Apartment",
+                "Size": 2100.0,
+                "FloorNumber": 0,
+                "TotalFloor": 0,
+                "WhatIsNear": null,
+                "BuiltYear": "1999",
+                "IsVacant": "1",
+                "LotSize": "",
+                "MainImage": "img3.jpg",
+                "Images": "img3.jpg|p11.jpg|p12.jpg|p13.jpg|p14.jpg|p15.jpg",
+                "Created_On": "2019-05-23T08:37:04.353",
+                "Modified_On": null,
+                "InfoPoints": [],
+                "Beacons": []
+            },
+            {
+                "PropertyId": 5,
+                "Address": "test,testing property",
+                "Status": "A",
+                "Title": "testing property",
+                "InfoPointCount": 0,
+                "Description": "Nice property",
+                "Price": 1233.0,
+                "Beds": "",
+                "Bathrooms": "1",
+                "Parkings": 2,
+                "Kitchens": 0,
+                "PropertyType": "Single Family",
+                "Size": 1450.0,
+                "FloorNumber": 2,
+                "TotalFloor": 0,
+                "WhatIsNear": null,
+                "BuiltYear": "2 Year",
+                "IsVacant": "1",
+                "LotSize": "5478",
+                "MainImage": "",
+                "Images": "",
+                "Created_On": "2019-05-23T08:57:29.64",
+                "Modified_On": "2019-06-02T03:16:47.27",
+                "InfoPoints": [],
+                "Beacons": []
+            },
+            {
+                "PropertyId": 6,
+                "Address": "Fremont,348 Riesling Ct Fremont, CA 94539",
+                "Status": "A",
+                "Title": "348 Riesling Ct Fremont, CA 94539",
+                "InfoPointCount": 7,
+                "Description": "Welcome to Riesling court.  This amazing home opens to 30 foot high vaulted ceilings and a custom wrap around staircase leading to the second floor,\r\n giving the light bright and happy feeling.  Solid 3/4 inch Brazilian cherry plank flooring. Recessed lights and formal dining.",
+                "Price": 1800000.0,
+                "Beds": "4",
+                "Bathrooms": "3",
+                "Parkings": 3,
+                "Kitchens": 0,
+                "PropertyType": "Apartment",
+                "Size": 2501.0,
+                "FloorNumber": 2,
+                "TotalFloor": 0,
+                "WhatIsNear": null,
+                "BuiltYear": "1992",
+                "IsVacant": "0",
+                "LotSize": "7805",
+                "MainImage": "",
+                "Images": "",
+                "Created_On": "2019-06-01T08:52:43.033",
+                "Modified_On": "2019-07-21T08:43:59.423",
+                "InfoPoints": [
+                    {
+                        "InfoPointId": 5,
+                        "BeaconId": 1,
+                        "PropertyId": 6,
+                        "Name": "kitchen and family room",
+                        "Description": "Welcome to the kitchen.  \n The kitchen is huge with wrap around counters.\nCentral island with dual sinks built in.\nTop of the line built in GE oven and microwave along.\nProfessional kitchen features 5 burner Thermador gas stove with custom chef hood.\nStone counters with tile floor opens to large family room overlooking back yard.",
+                        "MainImage": "",
+                        "Images": "",
+                        "Created_On": "2019-06-01T12:01:32.93",
+                        "Modified_On": "2019-06-29T06:58:46.227"
+                    },
+                    {
+                        "InfoPointId": 6,
+                        "BeaconId": 2,
+                        "PropertyId": 6,
+                        "Name": "Master bedroom and bath",
+                        "Description": "Welcome to the master bedroom\nThis extremely large master bedroom with high ceilings also has solid cherry wood flooring.  Along with a very light and bright bedroom.",
+                        "MainImage": "",
+                        "Images": "",
+                        "Created_On": "2019-06-01T12:10:45.087",
+                        "Modified_On": "2019-06-29T06:59:00.69"
+                    },
+                    {
+                        "InfoPointId": 7,
+                        "BeaconId": 3,
+                        "PropertyId": 6,
+                        "Name": "Additional features",
+                        "Description": "Additional features of this home are the huge bedrooms with open ceilings along with a jack and Jill bath separating.  Solid hardwood floors throughout the entire home.\nAnd of course a large bedroom and full bath downstairs on the main level. Along with upstairs laundry room.",
+                        "MainImage": "",
+                        "Images": "",
+                        "Created_On": "2019-06-01T12:14:56.44",
+                        "Modified_On": "2019-07-07T11:47:46.777"
+                    },
+                    {
+                        "InfoPointId": 12,
+                        "BeaconId": 6,
+                        "PropertyId": 6,
+                        "Name": "Master bath",
+                        "Description": "Welcome to the master bathroom.\nEntering the master bath, we have custom tile soaking tub with granite tile shower.\nThe cabinets are solid oak with marble tile counter and custom designed marble flooring.\nOff of the bathroom is a huge glamorous walk in closet with hardwood flooring throughout.",
+                        "MainImage": "",
+                        "Images": "",
+                        "Created_On": "2019-06-08T08:43:33.163",
+                        "Modified_On": "2019-06-29T06:52:01.933"
+                    },
+                    {
+                        "InfoPointId": 13,
+                        "BeaconId": 7,
+                        "PropertyId": 6,
+                        "Name": "Downstair bedroom and bath",
+                        "Description": "Welcome to the downstairs bedroom and bath.\nThis extra large bedroom has recessed lighting along with solid wood floors and even has custom closet doors with a light inside the coset.\nDownstairs full bath has new cabinets, lighting, mirrors,  tile flooring and solid culture marble shower.",
+                        "MainImage": "",
+                        "Images": "",
+                        "Created_On": "2019-06-08T08:45:03.633",
+                        "Modified_On": "2019-06-29T06:56:09.91"
+                    },
+                    {
+                        "InfoPointId": 14,
+                        "BeaconId": 8,
+                        "PropertyId": 6,
+                        "Name": "Backyard",
+                        "Description": "Welcome to the back yard.\nThis large back yard has 7 different types of fruit trees. Beautiful rock retaining wall and covered patio along with custom built storage sheds.",
+                        "MainImage": "",
+                        "Images": "",
+                        "Created_On": "2019-06-08T08:47:07.763",
+                        "Modified_On": "2019-06-29T06:49:48.44"
+                    },
+                    {
+                        "InfoPointId": 15,
+                        "BeaconId": 4,
+                        "PropertyId": 6,
+                        "Name": "Exit",
+                        "Description": "Thank you for joining me at my open house.  Please call me if you have any questions. Or if you wish to have a video or disclosures emailed to you.",
+                        "MainImage": "",
+                        "Images": "",
+                        "Created_On": "2019-06-08T08:48:17.513",
+                        "Modified_On": "2019-07-01T09:26:06.413"
+                    }
+                ],
+                "Beacons": [
+                    {
+                        "BeaconId": 1,
+                        "Major": 1,
+                        "Minor": 1
+                    },
+                    {
+                        "BeaconId": 2,
+                        "Major": 1,
+                        "Minor": 2
+                    },
+                    {
+                        "BeaconId": 3,
+                        "Major": 1,
+                        "Minor": 3
+                    },
+                    {
+                        "BeaconId": 4,
+                        "Major": 1,
+                        "Minor": 4
+                    },
+                    {
+                        "BeaconId": 6,
+                        "Major": 1,
+                        "Minor": 6
+                    },
+                    {
+                        "BeaconId": 7,
+                        "Major": 1,
+                        "Minor": 7
+                    },
+                    {
+                        "BeaconId": 8,
+                        "Major": 1,
+                        "Minor": 8
+                    }
+                ]
+            },
+            {
+                "PropertyId": 7,
+                "Address": "Chandigarh,229B, Second Floor",
+                "Status": "A",
+                "Title": "229B, Second Floor",
+                "InfoPointCount": 1,
+                "Description": "This is the intorduction This is the intorduction This is the intorduction This is the intorduction This is the intorduction This is the intorduction This is the intorduction This is the intorduction This is the intorduction This is the intorduction This is the intorduction This is the intorduction \n\nWElcome Welcome",
+                "Price": 232342.0,
+                "Beds": "3",
+                "Bathrooms": "2",
+                "Parkings": 2,
+                "Kitchens": 0,
+                "PropertyType": "Single Family",
+                "Size": 2333.0,
+                "FloorNumber": 2,
+                "TotalFloor": 0,
+                "WhatIsNear": null,
+                "BuiltYear": "20 years",
+                "IsVacant": "1",
+                "LotSize": "22323",
+                "MainImage": "",
+                "Images": "",
+                "Created_On": "2019-06-03T09:23:38.363",
+                "Modified_On": "2019-06-03T09:24:55.003",
+                "InfoPoints": [],
+                "Beacons": []
+            }
+        ],
+        "Configurations": [
+            {
+                "Key": "PropImagesBaseURL",
+                "Value": "https://nestwalk.com/uploads/prop/"
+            },
+            {
+                "Key": "InfoPointsImagesBaseURL",
+                "Value": "https://nestwalk.com/uploads/ip/"
+            },
+            {
+                "Key": "FEEDBACK_AFTER_TOUR",
+                "Value": "0"
+            },
+            {
+                "Key": "ENABLE_TEXT_TO_SPEACH",
+                "Value": "1"
+            },
+            {
+                "Key": "ENABLE_DEBUG_TOGGLE",
+                "Value": "0"
+            },
+            {
+                "Key": "MAX_BEACON_DISTANCE",
+                "Value": "4"
+            },
+            {
+                "Key": "BEACON_AVG_COUNT",
+                "Value": "4"
+            },
+            {
+                "Key": "BEACON_SWITCH_IN_BTWN_GAP",
+                "Value": "1.5"
+            },
+            {
+                "Key": "UUID",
+                "Value": "b9aa7f01-b682-474e-8d23-a69e611a6393"
+            }
+        ],
+        "PropImages": [
+            "i1.jpg",
+            "img1.jpg",
+            "img2.jpg",
+            "img3.jpg",
+            "img4.jpg",
+            "p11.jpg",
+            "p12.jpg",
+            "p13.jpg",
+            "p14.jpg",
+            "p15.jpg",
+            "p21.jpg",
+            "p22.jpg",
+            "p23.jpg"
+        ],
+        "IPImages": [
+            "42a3101b-6efe-40e7-b8f8-21e5e963b80a_IMG_1028.PNG.png",
+            "i3.jpg",
+            "i5.jpg"
+        ]
+    }
+}

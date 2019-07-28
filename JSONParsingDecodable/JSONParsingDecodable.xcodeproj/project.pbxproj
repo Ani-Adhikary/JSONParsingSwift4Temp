@@ -17,6 +17,8 @@
 		AF2DF32C20D6717600EAB202 /* Work.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF2DF32B20D6717600EAB202 /* Work.swift */; };
 		AF2DF33320D6870F00EAB202 /* Test.json in Resources */ = {isa = PBXBuildFile; fileRef = AF2DF33220D6870F00EAB202 /* Test.json */; };
 		AF2DF33720D68FEC00EAB202 /* Artists2.json in Resources */ = {isa = PBXBuildFile; fileRef = AF2DF33620D68FEC00EAB202 /* Artists2.json */; };
+		AFDE5ECB22EE0B61003BA02A /* PropertyDetails.json in Resources */ = {isa = PBXBuildFile; fileRef = AFDE5ECA22EE0B61003BA02A /* PropertyDetails.json */; };
+		AFDE5ECD22EE0B6D003BA02A /* LoginResponse.json in Resources */ = {isa = PBXBuildFile; fileRef = AFDE5ECC22EE0B6D003BA02A /* LoginResponse.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +34,8 @@
 		AF2DF32B20D6717600EAB202 /* Work.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Work.swift; sourceTree = "<group>"; };
 		AF2DF33220D6870F00EAB202 /* Test.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Test.json; sourceTree = "<group>"; };
 		AF2DF33620D68FEC00EAB202 /* Artists2.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Artists2.json; sourceTree = "<group>"; };
+		AFDE5ECA22EE0B61003BA02A /* PropertyDetails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = PropertyDetails.json; sourceTree = "<group>"; };
+		AFDE5ECC22EE0B6D003BA02A /* LoginResponse.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LoginResponse.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +76,8 @@
 				AF2DF31F20D56CA500EAB202 /* Info.plist */,
 				AF2DF32520D6697200EAB202 /* artists.json */,
 				AF2DF32920D6716D00EAB202 /* Artist.swift */,
+				AFDE5ECC22EE0B6D003BA02A /* LoginResponse.json */,
+				AFDE5ECA22EE0B61003BA02A /* PropertyDetails.json */,
 				AF2DF32B20D6717600EAB202 /* Work.swift */,
 				AF2DF33220D6870F00EAB202 /* Test.json */,
 				AF2DF33620D68FEC00EAB202 /* Artists2.json */,
@@ -139,10 +145,12 @@
 			files = (
 				AF2DF31E20D56CA500EAB202 /* LaunchScreen.storyboard in Resources */,
 				AF2DF31B20D56CA500EAB202 /* Assets.xcassets in Resources */,
+				AFDE5ECD22EE0B6D003BA02A /* LoginResponse.json in Resources */,
 				AF2DF32620D6697200EAB202 /* artists.json in Resources */,
 				AF2DF33720D68FEC00EAB202 /* Artists2.json in Resources */,
 				AF2DF31920D56CA100EAB202 /* Main.storyboard in Resources */,
 				AF2DF33320D6870F00EAB202 /* Test.json in Resources */,
+				AFDE5ECB22EE0B61003BA02A /* PropertyDetails.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

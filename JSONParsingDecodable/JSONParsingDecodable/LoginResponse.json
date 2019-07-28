@@ -1,0 +1,24 @@
+{
+    "Token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImFkbWluMUBnbWFpbC5jb20iLCJuYmYiOjE1NjQyMTY4NTgsImV4cCI6MTU5NTc1Mjg1OCwiaWF0IjoxNTY0MjE2ODU4LCJpc3MiOiJodHRwczovL25lc3R3YWxrLmNvbSIsImF1ZCI6Imh0dHBzOi8vbmVzdHdhbGsuY29tIn0.ksu8PgtRcFXdzd8ch6mAKWEL4LXackKyvCuUredHDzc",
+    "responseMsg": {
+        "Version": {
+            "_Major": 1,
+            "_Minor": 1,
+            "_Build": -1,
+            "_Revision": -1
+        },
+        "Content": null,
+        "StatusCode": 200,
+        "ReasonPhrase": "OK",
+        "Headers": [],
+        "RequestMessage": null,
+        "IsSuccessStatusCode": true
+    },
+    "Status": "Success",
+    "Message": "User authenticated successfully",
+    "User": {
+        "UserId": "MTA=",
+        "FirstName": "Demo1",
+        "LastName": "User"
+    }
+}
